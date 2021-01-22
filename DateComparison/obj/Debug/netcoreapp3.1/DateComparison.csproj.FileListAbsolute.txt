@@ -1,0 +1,12 @@
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/DateComparison/bin/Debug/netcoreapp3.1/DateComparison.deps.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/DateComparison/bin/Debug/netcoreapp3.1/DateComparison.runtimeconfig.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/DateComparison/bin/Debug/netcoreapp3.1/DateComparison.runtimeconfig.dev.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/DateComparison/bin/Debug/netcoreapp3.1/DateComparison.dll
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/DateComparison/bin/Debug/netcoreapp3.1/DateComparison.pdb
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/DateComparison/obj/Debug/netcoreapp3.1/DateComparison.csprojAssemblyReference.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/DateComparison/obj/Debug/netcoreapp3.1/DateComparison.AssemblyInfoInputs.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/DateComparison/obj/Debug/netcoreapp3.1/DateComparison.AssemblyInfo.cs
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/DateComparison/obj/Debug/netcoreapp3.1/DateComparison.csproj.CoreCompileInputs.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/DateComparison/obj/Debug/netcoreapp3.1/DateComparison.dll
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/DateComparison/obj/Debug/netcoreapp3.1/DateComparison.pdb
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/DateComparison/obj/Debug/netcoreapp3.1/DateComparison.genruntimeconfig.cache
