@@ -1,0 +1,12 @@
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/SumLoop/obj/Debug/netcoreapp3.1/SumLoop.csprojAssemblyReference.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/SumLoop/obj/Debug/netcoreapp3.1/SumLoop.AssemblyInfoInputs.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/SumLoop/obj/Debug/netcoreapp3.1/SumLoop.AssemblyInfo.cs
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/SumLoop/obj/Debug/netcoreapp3.1/SumLoop.csproj.CoreCompileInputs.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/SumLoop/bin/Debug/netcoreapp3.1/SumLoop.deps.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/SumLoop/bin/Debug/netcoreapp3.1/SumLoop.runtimeconfig.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/SumLoop/bin/Debug/netcoreapp3.1/SumLoop.runtimeconfig.dev.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/SumLoop/bin/Debug/netcoreapp3.1/SumLoop.dll
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/SumLoop/bin/Debug/netcoreapp3.1/SumLoop.pdb
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/SumLoop/obj/Debug/netcoreapp3.1/SumLoop.dll
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/SumLoop/obj/Debug/netcoreapp3.1/SumLoop.pdb
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/SumLoop/obj/Debug/netcoreapp3.1/SumLoop.genruntimeconfig.cache
