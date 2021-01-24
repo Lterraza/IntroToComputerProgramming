@@ -1,0 +1,12 @@
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/ArrayLists/obj/Debug/netcoreapp3.1/ArrayLists.csprojAssemblyReference.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/ArrayLists/obj/Debug/netcoreapp3.1/ArrayLists.AssemblyInfoInputs.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/ArrayLists/obj/Debug/netcoreapp3.1/ArrayLists.AssemblyInfo.cs
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/ArrayLists/obj/Debug/netcoreapp3.1/ArrayLists.csproj.CoreCompileInputs.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/ArrayLists/bin/Debug/netcoreapp3.1/ArrayLists.deps.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/ArrayLists/bin/Debug/netcoreapp3.1/ArrayLists.runtimeconfig.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/ArrayLists/bin/Debug/netcoreapp3.1/ArrayLists.runtimeconfig.dev.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/ArrayLists/bin/Debug/netcoreapp3.1/ArrayLists.dll
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/ArrayLists/bin/Debug/netcoreapp3.1/ArrayLists.pdb
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/ArrayLists/obj/Debug/netcoreapp3.1/ArrayLists.dll
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/ArrayLists/obj/Debug/netcoreapp3.1/ArrayLists.pdb
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/ArrayLists/obj/Debug/netcoreapp3.1/ArrayLists.genruntimeconfig.cache
