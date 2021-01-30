@@ -1,0 +1,12 @@
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module7/bin/Debug/netcoreapp3.1/Module7.deps.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module7/bin/Debug/netcoreapp3.1/Module7.runtimeconfig.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module7/bin/Debug/netcoreapp3.1/Module7.runtimeconfig.dev.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module7/bin/Debug/netcoreapp3.1/Module7.dll
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module7/bin/Debug/netcoreapp3.1/Module7.pdb
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module7/obj/Debug/netcoreapp3.1/Module7.csprojAssemblyReference.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module7/obj/Debug/netcoreapp3.1/Module7.AssemblyInfoInputs.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module7/obj/Debug/netcoreapp3.1/Module7.AssemblyInfo.cs
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module7/obj/Debug/netcoreapp3.1/Module7.csproj.CoreCompileInputs.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module7/obj/Debug/netcoreapp3.1/Module7.dll
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module7/obj/Debug/netcoreapp3.1/Module7.pdb
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module7/obj/Debug/netcoreapp3.1/Module7.genruntimeconfig.cache
