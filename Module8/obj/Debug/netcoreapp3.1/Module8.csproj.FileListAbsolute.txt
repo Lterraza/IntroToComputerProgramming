@@ -1,0 +1,11 @@
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module8/obj/Debug/netcoreapp3.1/Module8.AssemblyInfoInputs.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module8/obj/Debug/netcoreapp3.1/Module8.AssemblyInfo.cs
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module8/obj/Debug/netcoreapp3.1/Module8.csproj.CoreCompileInputs.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module8/bin/Debug/netcoreapp3.1/Module8.deps.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module8/bin/Debug/netcoreapp3.1/Module8.runtimeconfig.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module8/bin/Debug/netcoreapp3.1/Module8.runtimeconfig.dev.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module8/bin/Debug/netcoreapp3.1/Module8.dll
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module8/bin/Debug/netcoreapp3.1/Module8.pdb
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module8/obj/Debug/netcoreapp3.1/Module8.dll
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module8/obj/Debug/netcoreapp3.1/Module8.pdb
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module8/obj/Debug/netcoreapp3.1/Module8.genruntimeconfig.cache
