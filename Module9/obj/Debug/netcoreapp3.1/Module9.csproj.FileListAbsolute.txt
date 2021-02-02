@@ -1,0 +1,12 @@
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module9/obj/Debug/netcoreapp3.1/Module9.csprojAssemblyReference.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module9/obj/Debug/netcoreapp3.1/Module9.AssemblyInfoInputs.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module9/obj/Debug/netcoreapp3.1/Module9.AssemblyInfo.cs
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module9/obj/Debug/netcoreapp3.1/Module9.csproj.CoreCompileInputs.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module9/bin/Debug/netcoreapp3.1/Module9.deps.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module9/bin/Debug/netcoreapp3.1/Module9.runtimeconfig.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module9/bin/Debug/netcoreapp3.1/Module9.runtimeconfig.dev.json
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module9/bin/Debug/netcoreapp3.1/Module9.dll
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module9/bin/Debug/netcoreapp3.1/Module9.pdb
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module9/obj/Debug/netcoreapp3.1/Module9.dll
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module9/obj/Debug/netcoreapp3.1/Module9.pdb
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Module9/obj/Debug/netcoreapp3.1/Module9.genruntimeconfig.cache
