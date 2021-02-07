@@ -1,4 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
 
 namespace Module11
 {
@@ -6,7 +11,10 @@ namespace Module11
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            FileManagmentClass fmc = new FileManagmentClass();
+            fmc.CreateFile("test.txt");
+            fmc.CreateDirectory("New Directory");
+
         }
     }
 }
