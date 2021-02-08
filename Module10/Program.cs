@@ -13,17 +13,25 @@ namespace Module10
     {
         static void Main(string[] args)
         {
-            List<User> users = new List<User>();
             UserRepository ur = new UserRepository();
-            users.Add(new User(1, "Luis Terrazas", "Student"));
-            users.Add(new User(2, "John Doe", "Student"));
-            users.Add(new User(3, "Ezra Terrazas", "Student"));
-            users.Add(new User(1, "Alvaro Terrazas", "Teacher"));
-            users.Add(new User(1, "Betty Aguilar", "Student"));
-            users.Add(new User(1, "Andrea Terrazas", "Student"));
-            users.Add(new User(1, "Mariana Terrazas", "Student"));
 
-            List<User>usersFound = ur.Search(users, "Terrazas");
+            ur.Save(new User(1, "Luis Terrazas", "Student"));
+            ur.Save(new User(2, "John Doe", "Student"));
+            ur.Save(new User(3, "Ezra Terrazas", "Student"));
+            ur.Save(new User(4, "Alvaro Terrazas", "Teacher"));
+            ur.Save(new User(5, "Betty Aguilar", "Student"));
+            ur.Save(new User(6, "Andrea Terrazas", "Student"));
+            ur.Save(new User(7, "Mariana Terrazas", "Student"));
+
+            List<User>usersFound = ur.Search("Terrazas");
+            foreach (User u in usersFound)
+            {
+                Console.WriteLine(u.UserID + " " + u.Name + " " + u.Role);
+            }
+
+            ur.Delete(ur.repositorylist.Find(u=>u.UserID == 1));
+
+            usersFound = ur.Search("Terrazas");
             foreach (User u in usersFound)
             {
                 Console.WriteLine(u.UserID + " " + u.Name + " " + u.Role);

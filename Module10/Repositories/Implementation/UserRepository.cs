@@ -11,9 +11,9 @@ namespace Module10.Repositories.Implementation
     {
         public UserRepository() { }
 
-        public List<User> Search(List<User> users, string name)
+        public List<User> Search(string name)
         {
-            return users.FindAll(u => u.Name.Contains(name));
+            return repositorylist.FindAll(u => u.Name.Contains(name));
         }
     }
 }

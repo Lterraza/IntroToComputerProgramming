@@ -9,7 +9,7 @@ namespace Module10.Repositories
 {
     public interface IUserRepository : IMainRepository<User>
     {
-        List<User> Search(List<User> Users, string Name);
+        List<User> Search(string Name);
         
     }
 }
