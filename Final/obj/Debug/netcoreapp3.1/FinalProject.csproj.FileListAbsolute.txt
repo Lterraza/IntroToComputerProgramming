@@ -1,0 +1,3 @@
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Final/obj/Debug/netcoreapp3.1/FinalProject.AssemblyInfoInputs.cache
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Final/obj/Debug/netcoreapp3.1/FinalProject.AssemblyInfo.cs
+/Users/luisadrianterrazas/Desktop/BakeryShoppingCart/BakeryShoppingCart/Final/obj/Debug/netcoreapp3.1/FinalProject.csproj.CoreCompileInputs.cache
